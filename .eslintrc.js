@@ -17,6 +17,7 @@ module.exports = {
     'no-console': 'off',
     'import/no-named-as-default-member': 'off',
     'space-before-function-paren': 'off',
-    'arrow-parens': 'off'
+    'arrow-parens': 'off',
+    'vue/singleline-html-element-content-newline': 'off'
   }
 }
