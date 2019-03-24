@@ -33,7 +33,8 @@ module.exports = {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    '~/plugins/storeWatchPlugin'
+    '~/plugins/storeWatchPlugin',
+    '~/plugins/vue-scrollto'
   ],
 
   /*
