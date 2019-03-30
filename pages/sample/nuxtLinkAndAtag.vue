@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import NuxtLinkAndAtagPage from '~/components/pages/sample/NuxtLinkAndAtagPage.vue'
+import NuxtLinkAndAtagPage from '~/components/pages/sample/NuxtLinkAndAtagPage/index.vue'
 
 export default {
   components: {

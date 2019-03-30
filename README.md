@@ -1,22 +1,15 @@
 # vue-sample
+[HAFILOG](https://hafilog.com)で紹介しているVue.jsに関するTipsのコードをまとめた実行環境
 
-> My first-rate Nuxt.js project
-
-## Build Setup
+## 実行方法
 
 ``` bash
-# install dependencies
+# 必要なパッケージのインストール
 $ npm install
 
-# serve with hot reload at localhost:3000
+# http://localhost:3000 でアクセスできるようにプログラムを起動
 $ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+## コードについて
+`/components/pages/sample`以下にそれぞれのtipsごとでまとまっているので参考にしてみてください

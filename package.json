@@ -2,7 +2,7 @@
   "name": "vue-sample",
   "version": "1.0.0",
   "description": "My first-rate Nuxt.js project",
-  "author": "33haji",
+  "author": "hafilog",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",

@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import AnchorLinkPage from '~/components/pages/sample/AnchorLinkPage.vue'
+import AnchorLinkPage from '~/components/pages/sample/AnchorLinkPage/index.vue'
 
 export default {
   components: {
