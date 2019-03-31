@@ -1,5 +1,10 @@
 それぞれ記事ごとにディレクトリが分かれています。
 
+## 【Vue.js】全ての画面で実行したい処理の実装方法
+* 記事のURL：https://hafilog.com/aftereach
+* ディレクトリ：`afterEachDefaultPage`
+* プログラム実行時のパス：`/sample/afterEachDefault`
+
 ## 【Vue.js】スムーズにスクロールするアンカーリンクの使い方
 * 記事のURL：https://hafilog.com/vue-scrollto
 * ディレクトリ：`AnchorLinkPage`
