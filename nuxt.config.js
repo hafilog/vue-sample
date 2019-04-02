@@ -35,7 +35,9 @@ module.exports = {
   plugins: [
     '~/plugins/storeWatchPlugin',
     '~/plugins/vue-scrollto',
-    { src: '~/plugins/router', ssr: false }
+    '~/plugins/uppercase',
+    { src: '~/plugins/router', ssr: false },
+    { src: '~/plugins/cookie', ssr: false }
   ],
 
   /*
