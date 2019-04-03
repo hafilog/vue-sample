@@ -3,11 +3,11 @@
 </template>
 
 <script>
-import afterEachDefaultPage from '~/components/pages/sample/afterEachDefaultPage/index.vue'
+import AfterEachDefaultPage from '~/components/pages/sample/AfterEachDefaultPage/index.vue'
 
 export default {
   components: {
-    afterEachDefaultPage
+    AfterEachDefaultPage
   }
 }
 </script>
