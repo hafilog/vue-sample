@@ -1,6 +1,6 @@
 それぞれ記事ごとにディレクトリが分かれています。
 
-## 【Vue.js】全ての画面で実行したい処理の実装方法
+## 【Vue.js】injectしたメソッドの中で他のinjectされた処理を使う方法
 * 記事のURL：https://hafilog.com/inject-in-inject
 * ディレクトリ：`InjectInInjectPage`
 * プログラム実行時のパス：`/sample/injectInInject`
