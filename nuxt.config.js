@@ -36,6 +36,7 @@ module.exports = {
     '~/plugins/storeWatchPlugin',
     '~/plugins/vue-scrollto',
     '~/plugins/uppercase',
+    '~/plugins/lazyload',
     { src: '~/plugins/router', ssr: false },
     { src: '~/plugins/cookie', ssr: false }
   ],

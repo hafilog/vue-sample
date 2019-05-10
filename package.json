@@ -17,6 +17,7 @@
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
     "nuxt": "^2.4.0",
+    "vue-lazyload": "^1.2.6",
     "vue-scrollto": "^2.15.0"
   },
   "devDependencies": {

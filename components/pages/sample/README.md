@@ -1,5 +1,10 @@
 それぞれ記事ごとにディレクトリが分かれています。
 
+## 【Vue.js】画像をlazyload（遅延読み込み）してパフォーマンス向上
+* 記事のURL：https://hafilog.com/lazyload
+* ディレクトリ：`LazyloadPage`
+* プログラム実行時のパス：`/sample/lazyload`
+
 ## 【Vue.js】injectしたメソッドの中で他のinjectされた処理を使う方法
 * 記事のURL：https://hafilog.com/inject-in-inject
 * ディレクトリ：`InjectInInjectPage`
