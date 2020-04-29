@@ -18,6 +18,9 @@ module.exports = {
     'import/no-named-as-default-member': 'off',
     'space-before-function-paren': 'off',
     'arrow-parens': 'off',
-    'vue/singleline-html-element-content-newline': 'off'
+    'vue/singleline-html-element-content-newline': 'off',
+    'nuxt/no-timing-in-fetch-data': 'off',
+    'vue/attribute-hyphenation': 'off',
+    'vue/order-in-components': 'off'
   }
 }

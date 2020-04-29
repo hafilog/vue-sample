@@ -1,5 +1,10 @@
 それぞれ記事ごとにディレクトリが分かれています。
 
+## 【Vue.js】データを遅延取得でパフォーマンス向上
+* 記事のURL：https://hafilog.com/lazy-fetch
+* ディレクトリ：`LazyFetchPage`
+* プログラム実行時のパス：`/sample/lazyFetch`
+
 ## 【Vue.js】画像をlazyload（遅延読み込み）してパフォーマンス向上
 * 記事のURL：https://hafilog.com/lazyload
 * ディレクトリ：`LazyloadPage`
