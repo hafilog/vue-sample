@@ -1,5 +1,9 @@
 それぞれ記事ごとにディレクトリが分かれています。
 
+## 【Nuxt.js】エラーページの使い分け
+* 記事のURL：https://hafilog.com/nuxt-error-page
+* プログラム実行時のパス：`/sample/errorPage`
+
 ## 【Vue.js】データを遅延取得でパフォーマンス向上
 * 記事のURL：https://hafilog.com/lazy-fetch
 * ディレクトリ：`LazyFetchPage`
